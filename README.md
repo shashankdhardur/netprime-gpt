@@ -1,8 +1,19 @@
-# React + Vite
+# NetPrime
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-Create vite React app
+-configured tailwind css
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    -Home Page
+        -Sign In/Sign up form
+    -Browse(after authentication)
+        -Header
+        -Main Movie
+            -Trailer in background
+            -Title and Description
+            -Movie suggestion
+                -MoviesList * N
+    -NetPrimeGPT
+        -Search Bar
+        -Movie suggestions
